@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "115230536648",
+    "project_id": "stunnzone-d3ea5",
+    "storage_bucket": "stunnzone-d3ea5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115230536648:android:c3296cae8a6da0db7906fd",
+        "android_client_info": {
+          "package_name": "com.example.multi_store_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115230536648-9panm8tae4pf6jaiba6iurjap9md9lu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQAxYXPrzqgEBbyxQlvHZEb2pHvqdHMFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115230536648-9panm8tae4pf6jaiba6iurjap9md9lu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115230536648:android:0b3b6bfab5864f1b7906fd",
+        "android_client_info": {
+          "package_name": "com.example.shopnow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115230536648-9panm8tae4pf6jaiba6iurjap9md9lu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQAxYXPrzqgEBbyxQlvHZEb2pHvqdHMFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115230536648-9panm8tae4pf6jaiba6iurjap9md9lu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115230536648:android:cf475f5e8e20fe787906fd",
+        "android_client_info": {
+          "package_name": "com.example.stunnzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115230536648-dsqmui0idpubfociefd8233ibjpkv513.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stunnzone",
+            "certificate_hash": "da753c0c46b72c3b79ba55aea97131e7d37810d4"
+          }
+        },
+        {
+          "client_id": "115230536648-9panm8tae4pf6jaiba6iurjap9md9lu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQAxYXPrzqgEBbyxQlvHZEb2pHvqdHMFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115230536648-9panm8tae4pf6jaiba6iurjap9md9lu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
